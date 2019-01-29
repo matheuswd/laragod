@@ -1,0 +1,151 @@
+{
+    "Home": "Principal",
+    "Sign In": "Entrar",
+    "Register": "Cadastrar",    
+    "Email": "E-mail",
+    "Password": "Senha",
+    "Remember Me": "Lembrar-me",
+    "Save": "Salvar",
+    "My Profile": "Meu Perfil",
+    "Help": "Ajuda",
+    "Logout": "Sair",
+    "Dashboard": "Dashboard",
+    "Users": "Usuários",
+
+    "Select the Subject": "Selecione o Assunto",
+    "System Bug": "Erro no Sistema",
+    "System Support": "Suporte do Sistema",
+    "Evaluate Us": "Avaliar-nos",
+    "Suggestion": "Sugestão",
+    "Another Subject": "Outro Assunto",
+
+    "New User": "Novo Usuário",
+    "Full Name": "Nome Completo",
+    "Send Link": "Enviar Link",
+    
+    "Remember your password?": "Lembrou sua senha?",
+    "Enter here!": "Entre aqui!",
+
+    "Reset Password": "Redefinir Senha",
+    "Confirm Password": "Confirmar Senha",
+
+    "Do not have an account?": "Não possuí uma conta?",
+    "Register here!": "Cadastre-se aqui!",
+
+    "Recover Password": "Recuperar Senha",
+
+    "Already have an account?": "Já possuí uma conta?",
+
+    "Email Not Verified": "E-mail Não Verificado",
+
+    "To have access of all features, you must verify your email.":
+        "Para ter acesso a todos os recursos, você deve verificar seu e-mail.",
+
+    "Do not receive a email?": "Não recebeu um e-mail?",
+    "Resend Here!": "Reenvie aqui!",
+
+    "Documentation": "Documentação",
+    "Understand the system": "Entenda o sistema",
+    "Frequently Asked Questions": "Perguntas Frequentes",
+    "Most common questions": "As dúvidas mais comuns",
+    "Feedback": "Feedback",
+    "Support, evaluate or bug": "Suporte, avaliação ou erro",
+
+    "Social Networks": "Redes Sociais",
+    "Contact": "Contato",
+
+    "Your feedback is very important to us!":
+        "Seu feedback é muito importante para nós!",
+
+    "If you find any bug, want to ask a question, wish to evaluate us or suggest a new feature, feel free to use the form below.":
+        "Se você encontrar algum erro, quer esclarecer uma dúvida, deseja nos avaliar ou sugerir uma funcionalidade, sinta-se a vontade para utilizar o formulário abaixo.",
+
+    "We will do our best to ensure your good experience here.":
+        "Nós faremos nosso melhor para garantir que você tenha uma boa experiência aqui.",
+
+    "Describe your message in a easy way.":
+        "Descreva sua mensagem de forma clara.",
+
+    "Thanks for your feedback! We'll read it as soon as possible.":
+        "Obrigado pelo seu feedback! Iremos ler assim que possível.",
+
+    "Some fields are invalid. Please check your input.":
+        "Alguns campos estão inválidos. Por favor verifique os dados.",
+
+    "Type a interest then press Enter to input more":
+        "Escreva um interesse e pressione Enter para adicionar mais",
+    
+    "Make a well description about yourself.":
+        "Faça uma boa descrição sobre você mesmo.",
+
+    "Search": "Procurar",
+    "Actions": "Ações",
+    "No Results Found.": "Nenhum Resultado Encontrado.",
+
+    "List": "Lista",
+    "Card": "Cartão",
+
+    "Update Photo": "Atualizar Foto",
+    "Birth": "Nascimento",
+    "Last Visit": "Última Visita",
+
+    "Position": "Cargo",
+    "Company": "Empresa",
+    "City": "Cidade",
+    "Country": "País",
+    "Interests": "Interesses",
+    "Biography": "Biografia",
+
+    "Add User": "Adicionar Usuário",
+
+    "Required Fields": "Campos Obrigatórios",
+    "Additional Properties": "Propriedades Adicionais",
+
+    "Is Admin": "É Administrador",
+    "Is Verified": "É Verificado",
+
+    "User created with success!": "Usuário criado com sucesso!",
+    "Profile updated with success!": "Perfil atualizado com sucesso!",
+
+    "Edit User": "Editar Usuário",
+
+    "User updated with success!": "Usuário atualizado com sucesso!",
+    
+    "Business": "Profissional",
+    "Personal": "Pessoal",
+
+    "Mark As Admin": "Marcar Como Admin",
+    "Mark As Verified": "Marcar Como Verificado",
+
+    "Type a word, then press ENTER to add more.":
+        "Escreva uma palavra, então pressione ENTER para adicionar mais.",
+
+    "Delete": "Excluir",
+
+    "Are you sure you want to delete this?":
+        "Você tem certeza que deseja excluir isto?",
+        
+    "This action is irreversible.": "Esta ação é irreversível.",
+
+    "Update Avatar": "Atualizar Foto",
+    "Update Data": "Atualizar Dados",
+
+    "Created At": "Criado Em",
+    "Actived At": "Ativo Em",
+
+    "Send": "Enviar",
+
+    "Personal Data": "Dados Pessoais",
+    "Professional Data": "Dados Profissionais",
+    "Social Data": "Dados Sociais",
+    
+    "at": "em",
+
+    "Informations": "Informações",
+
+    "Last Seen At": "Última Visita Em",
+
+    "No social networks registered.": "Sem redes sociais cadastradas.",
+    "No personal data registered.": "Sem dados pessoais cadastrados.",
+    "No professional data registered.": "Sem dados profissionais cadastrados."
+}
