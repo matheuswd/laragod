@@ -1,25 +1,25 @@
-= Basic Installation
+# Basic Installation
 
-# composer install
+$ composer install
 
-# npm i
+$ npm i
 
-= Laravel Mix
+# Laravel Mix
 
-# composer dev
+$ composer dev
 
 or
 
-# composer build
+$ composer build
 
-= Helpers
+# Helpers
 
-# composer dump-autoload
+$ composer dump-autoload
 
-# php artisan views:clear
+$ php artisan views:clear
 
-# php artisan cache:clear
+$ php artisan cache:clear
 
-# php artisan migrate
+$ php artisan migrate
 
-# php artisan key:generate
+$ php artisan key:generate
