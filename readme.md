@@ -6,11 +6,17 @@ $ npm i
 
 # Laravel Mix
 
-$ npm run dev
+$ npm run dev 
+
+$ npm run watch
 
 or
 
 $ npm run build
+
+# For Avatar's Public Folder
+
+$ php artisan storage:link
 
 # Helpers
 
