@@ -6,11 +6,11 @@ $ npm i
 
 # Laravel Mix
 
-$ composer dev
+$ npm run dev
 
 or
 
-$ composer build
+$ npm run build
 
 # Helpers
 
